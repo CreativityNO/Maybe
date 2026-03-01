@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Random Stories + Characters/Alexander.md",
+                "file": "Templates/testing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alexander"
+              "title": "testing"
             }
           }
         ],
@@ -195,9 +195,11 @@
   },
   "active": "a8fed99f2c022d7c",
   "lastOpenFiles": [
-    "Random Stories + Characters/Crown.md",
-    "Random Stories + Characters/Alexander.md",
     "Templates/obsidian_templater_cheat_sheet.md",
+    "Templates/testing.md",
+    "Random Stories + Characters/Sadness.md",
+    "Random Stories + Characters/Alexander.md",
+    "Random Stories + Characters/Crown.md",
     "you Work.md",
     "Templates/Unconfirmed 755825.crdownload",
     "Worldbuilding",
