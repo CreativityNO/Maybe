@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Random Stories + Characters/Crown.md",
+                "file": "Random Stories + Characters/Alexander.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Crown"
+              "title": "Alexander"
             }
           }
         ],
@@ -193,10 +193,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1c4a26dba15d0364",
+  "active": "a8fed99f2c022d7c",
   "lastOpenFiles": [
-    "Templates/obsidian_templater_cheat_sheet.md",
     "Random Stories + Characters/Crown.md",
+    "Random Stories + Characters/Alexander.md",
+    "Templates/obsidian_templater_cheat_sheet.md",
     "you Work.md",
     "Templates/Unconfirmed 755825.crdownload",
     "Worldbuilding",
