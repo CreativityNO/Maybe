@@ -2,3 +2,4 @@
 
 "I'm joining the war. Can't you see the opportunity this is? Over three thousand years of scrounging in the dirt got us this far but we've reach the end of our rope. This could be are chance to rekindle our momentum. When's the next time a war like this will break out? This is the first time the Empire has truly been threatened in millions of years. Imagine the treasures they'd give out if we performed well."
 
+"Legion Army "

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Random Stories + Characters/War.md",
+                "file": "Worldbuilding/Military.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "War"
+              "title": "Military"
             }
           }
         ],
@@ -195,8 +195,9 @@
   },
   "active": "a8fed99f2c022d7c",
   "lastOpenFiles": [
-    "Random Stories + Characters/Sadness.md",
     "Random Stories + Characters/War.md",
+    "Worldbuilding/Military.md",
+    "Random Stories + Characters/Sadness.md",
     "Templates/obsidian_templater_cheat_sheet.md",
     "Templates/testing.md",
     "Random Stories + Characters/Alexander.md",
