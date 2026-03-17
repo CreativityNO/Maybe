@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/obsidian_templater_cheat_sheet.md",
+                "file": "Random Stories + Characters/War.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "obsidian_templater_cheat_sheet"
+              "title": "War"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Military.md",
+                "file": "Random Stories + Characters/War.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Military"
+              "title": "War"
             }
           }
         ],
@@ -193,13 +193,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a8fed99f2c022d7c",
+  "active": "1c4a26dba15d0364",
   "lastOpenFiles": [
-    "Random Stories + Characters/War.md",
-    "Worldbuilding/Military.md",
-    "Random Stories + Characters/Sadness.md",
     "Templates/obsidian_templater_cheat_sheet.md",
     "Templates/testing.md",
+    "Random Stories + Characters/Of Times Past.md",
+    "Random Stories + Characters/War.md",
+    "Random Stories + Characters/Sadness.md",
+    "Worldbuilding/Military.md",
     "Random Stories + Characters/Alexander.md",
     "Random Stories + Characters/Crown.md",
     "you Work.md",
