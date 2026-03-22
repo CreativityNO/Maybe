@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Random Stories + Characters/War.md",
+                "file": "Random Stories + Characters/Why.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "War"
+              "title": "Why"
             }
           }
         ],
@@ -193,16 +193,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1c4a26dba15d0364",
+  "active": "a8fed99f2c022d7c",
   "lastOpenFiles": [
-    "Templates/obsidian_templater_cheat_sheet.md",
-    "Templates/testing.md",
+    "Random Stories + Characters/Sadness.md",
+    "Random Stories + Characters/Why.md",
+    "Random Stories + Characters/Crown.md",
+    "Random Stories + Characters/Alexander.md",
     "Random Stories + Characters/Of Times Past.md",
     "Random Stories + Characters/War.md",
-    "Random Stories + Characters/Sadness.md",
+    "Templates/obsidian_templater_cheat_sheet.md",
+    "Templates/testing.md",
     "Worldbuilding/Military.md",
-    "Random Stories + Characters/Alexander.md",
-    "Random Stories + Characters/Crown.md",
     "you Work.md",
     "Templates/Unconfirmed 755825.crdownload",
     "Worldbuilding",
