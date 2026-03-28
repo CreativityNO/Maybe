@@ -1,0 +1,1 @@
+"You want to joint the army? Why? For what? Glory? Power? Utterly ridiculous."
