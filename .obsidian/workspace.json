@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "New Beginnings"
             }
+          },
+          {
+            "id": "1bbde897739580f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worldbuilding/Path.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Path"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -193,18 +207,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a8fed99f2c022d7c",
+  "active": "1c4a26dba15d0364",
   "lastOpenFiles": [
-    "Random Stories + Characters/Crown.md",
-    "Random Stories + Characters/Boy.md",
-    "Random Stories + Characters/New Beginnings.md",
+    "Templates/obsidian_templater_cheat_sheet.md",
+    "Worldbuilding/Path.md",
+    "Templates/testing.md",
     "Random Stories + Characters/Why.md",
     "Random Stories + Characters/Sadness.md",
+    "Random Stories + Characters/Crown.md",
     "Random Stories + Characters/Alexander.md",
-    "Random Stories + Characters/Of Times Past.md",
     "Random Stories + Characters/War.md",
-    "Templates/obsidian_templater_cheat_sheet.md",
-    "Templates/testing.md",
+    "Random Stories + Characters/Boy.md",
+    "Random Stories + Characters/Of Times Past.md",
+    "Random Stories + Characters/New Beginnings.md",
     "Worldbuilding/Military.md",
     "you Work.md",
     "Templates/Unconfirmed 755825.crdownload",
