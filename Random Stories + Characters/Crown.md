@@ -15,7 +15,7 @@
 
 “You are dismissed.”
 
-  
+
 
 All around the planet, citizens of the Empire began preparations for the celebration of the Empire’s first millennium. From the Imperial Capital to the smallest of villages, every settlement was a hive of activity. 
 
