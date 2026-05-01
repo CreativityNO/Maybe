@@ -1,6 +1,4 @@
 
-
-
 “Another rebel, huh?”
 
 “Yes, my Emperor. They have gotten bolder over the last century. Perhaps another demonstration of your power is necessary.”
