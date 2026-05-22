@@ -1,0 +1,1 @@
+Arthur always wanted to become a Knight. Since the first time he saw one of those superhuman warriors fight. 
