@@ -1,0 +1,20 @@
+- list of stuff
+- Ok kingdom of stuff king stuff
+- 9 Shards in total
+- one or all?
+- ONE definitely more progression that im not going to get to 
+- where to start
+- a forest village it the best right? next to mountain hunt and fishing for food no exports
+- taxes? merchants for hides and beast parts as well as interesting herbs and plants and maybe mountain bits 
+- no guards just the local hunters and stuff
+- village chief
+- homeschooled to follow in parents footsteps
+- every year spring or fall the officials come and test for affinity
+- very crude tests only one for body tempering and one for magic
+	- a elixir is too expensive a herb then 
+- a mage is at the same or higher than Knights or less
+- School of magic and School of combat
+- very separate and don't like each other
+- 16 he is of age 
+- only humans? maybe not matter right now
+- 
