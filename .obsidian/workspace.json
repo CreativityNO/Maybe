@@ -25,14 +25,10 @@
             "id": "1bbde897739580f9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Random Stories + Characters/Hopefully not shit/Chapter 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chapter 2"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -155,17 +151,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Random Stories + Characters/Hopefully not shit/Chapter 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 2"
+              "title": "Outline"
             }
           },
           {
-            "id": "e2fe144837cccbe5",
+            "id": "3ea0b4a50b706249",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -190,15 +185,17 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "1bbde897739580f9",
   "lastOpenFiles": [
+    "Templates/testing.md",
+    "Templates/obsidian_templater_cheat_sheet.md",
+    "Random Stories + Characters/Hopefully not shit/Chapter 2.md",
     "Random Stories + Characters/Crown.md",
     "Random Stories + Characters/Hopefully not shit/Chapter 1.md",
-    "Random Stories + Characters/Hopefully not shit/Chapter 2.md",
     "Random Stories + Characters/Hopefully not shit/time to brainstorm.md",
     "Random Stories + Characters/New Beginnings.md",
     "Random Stories + Characters/Hopefully not shit",
@@ -210,8 +207,6 @@
     "Random Stories + Characters/Why.md",
     "Worldbuilding/Military.md",
     "Worldbuilding/Path.md",
-    "Templates/obsidian_templater_cheat_sheet.md",
-    "Templates/testing.md",
     "you Work.md",
     "Templates/Unconfirmed 755825.crdownload",
     "Worldbuilding",
