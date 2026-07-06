@@ -11,8 +11,10 @@
 - homeschooled to follow in parents footsteps
 - every year spring or fall the officials come and test for affinity
 - very crude tests only one for body tempering and one for magic
-	- a elixir is too expensive a herb then 
-- a mage is at the same or higher than Knights or less
+	- a elixir is too expensive a herb then or a stick
+- a mage is at the same or higher than Knights or less 
+	- noble depends on family tradition
+	- Knight more for peasants but mages cool too 
 - School of magic and School of combat
 - very separate and don't like each other
 - 16 he is of age 
