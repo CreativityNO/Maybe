@@ -25,10 +25,14 @@
             "id": "1bbde897739580f9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Random Stories + Characters/Hopefully not shit/Chapter 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 2"
             }
           }
         ],
@@ -151,12 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Random Stories + Characters/Hopefully not shit/Chapter 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Chapter 2"
             }
           },
           {
