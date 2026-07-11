@@ -15,8 +15,9 @@
 - a mage is at the same or higher than Knights or less 
 	- noble depends on family tradition
 	- Knight more for peasants but mages cool too 
+	- so just depends really
 - School of magic and School of combat
 - very separate and don't like each other
 - 16 he is of age 
 - only humans? maybe not matter right now
-- 
+- Trauma
