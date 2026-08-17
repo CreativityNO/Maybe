@@ -1,0 +1,10 @@
+{
+  "templater-obsidian:create-Templates/What I did.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "W"
+    }
+  ]
+}

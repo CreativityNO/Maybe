@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Random Stories + Characters/Hopefully not shit/Chapter 2.md",
+                "file": "Templates/obsidian_templater_cheat_sheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 2"
+              "title": "obsidian_templater_cheat_sheet"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -112,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Templates/obsidian_templater_cheat_sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -140,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Random Stories + Characters/Hopefully not shit/Chapter 2.md",
+                "file": "Templates/obsidian_templater_cheat_sheet.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 2"
+              "title": "Outline"
             }
           },
           {
@@ -179,30 +182,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a8d8d97e95ca3f93",
+  "active": "3ea0b4a50b706249",
   "lastOpenFiles": [
+    "Tracking/2026-08-16—00-02.md",
+    "Tracking/2026-08-15—23-57.md",
+    "Tracking/2026-08-15—23-56.md",
     "Random Stories + Characters/Hopefully not shit/Chapter 1.md",
     "Random Stories + Characters/Hopefully not shit/Chapter 2.md",
-    "Random Stories + Characters/Hopefully not shit/time to brainstorm.md",
-    "Random Stories + Characters/Fun things to do.md",
-    "Random Stories + Characters/Alexander.md",
-    "Random Stories + Characters/Crown.md",
-    "Random Stories + Characters/New Beginnings.md",
-    "Random Stories + Characters/Boy.md",
-    "Random Stories + Characters/War.md",
-    "Templates/testing.md",
+    "Worldbuilding/Path.md",
+    "Worldbuilding/Military.md",
     "Templates/obsidian_templater_cheat_sheet.md",
+    "Random Stories + Characters/Crown.md",
+    "Random Stories + Characters/Boy.md",
+    "Templates/What I did.md",
+    "Tracking/2026-08-15—23-45.md",
+    "Random Stories + Characters/Hopefully not shit/time to brainstorm.md",
+    "Random Stories + Characters/Alexander.md",
+    "Tracking/2026-08-15--23-43-54.md",
+    "Tracking/20260815234324.md",
+    "2026 08 15 pmt 23 08 33.md",
+    "2026 08 15.md",
+    "Untitled 1.md",
+    "Untitled 2.md",
+    "Templates/testing.md",
+    "Tracking",
+    "Random Stories + Characters/Fun things to do.md",
+    "Random Stories + Characters/New Beginnings.md",
+    "Random Stories + Characters/War.md",
     "Random Stories + Characters/Hopefully not shit",
     "Random Stories + Characters/Sadness.md",
     "Random Stories + Characters/Of Times Past.md",
-    "Random Stories + Characters/Why.md",
-    "Worldbuilding/Military.md",
-    "Worldbuilding/Path.md",
-    "you Work.md",
     "Templates/Unconfirmed 755825.crdownload",
     "Worldbuilding",
     "Templates",
-    "Random Stories + Characters",
-    "Welcome.md"
+    "Random Stories + Characters"
   ]
 }
