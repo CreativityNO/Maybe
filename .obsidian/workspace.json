@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6d8b9945188c6f8c",
+        "id": "3ceff8a4397b531a",
         "type": "tabs",
         "children": [
           {
-            "id": "ba62a87d9ed48e5c",
+            "id": "72a933ed0e24285b",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Tracking/2026-08-17—22-22.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "2026-08-17—22-22"
             }
           }
         ]
@@ -114,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tracking/2026-08-17—22-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -142,6 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Tracking/2026-08-17—22-22.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -180,8 +182,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ba62a87d9ed48e5c",
+  "active": "72a933ed0e24285b",
   "lastOpenFiles": [
+    "Tracking/2026-08-17—22-22.md",
     "Random Stories + Characters/A Fight.md",
     "Random Stories + Characters/Crown.md",
     "Templates/What I did.md",
@@ -209,7 +212,6 @@
     "Tracking",
     "Random Stories + Characters/Fun things to do.md",
     "Random Stories + Characters/New Beginnings.md",
-    "Random Stories + Characters/War.md",
     "Random Stories + Characters/Hopefully not shit",
     "Templates/Unconfirmed 755825.crdownload",
     "Worldbuilding",
