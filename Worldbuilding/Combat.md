@@ -19,9 +19,24 @@
 		- Removes the need for overwhelming momentum 
 		- Bend around attacks and capitalize on openings from overextension
 		- Its reactive combat which make it somewhat predictable
-			- 
+			- But only slightly more than others
+			- reacting does limit the possibilities but most don't use all possible attacks
+			- they have a style which can be predicted
+- How to solve the problem of predictability
+	- You only have a certain skill set
+	- if the opponent knows your whole skill set and your tactics they can counter them
+	- So secret keeping is most crucial
+	- Of course so is simple skill in combat but it is hard to find a good advantage through this
+	- The element of surprise is the most common
+	- Then during combat 
+		- A good style doesn't care?
+		- Enough possibilities that it is unreasonable to predict
+		- but people aren't perfect
+		- But a good combatant should not have this problem
+		- this requires more consideration
+	- 
 ## Skills
 - Domains
 	- a way to control the environment to better suit you
 	- a domain skill or something like an aura
-	
+- Finishers
