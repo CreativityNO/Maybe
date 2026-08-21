@@ -34,9 +34,18 @@
 		- but people aren't perfect
 		- But a good combatant should not have this problem
 		- this requires more consideration
+		- I think it isn't very possible to solve because every attack has many permutations and although with a supercomputer mind it could be possible it is still unreasonable to dedicate that much brain power to prediction instead of spells and such but also
+		- no this is too complicated
 	- 
 ## Skills
+Of course there are no definite divisions everything is fluid
 - Domains
 	- a way to control the environment to better suit you
 	- a domain skill or something like an aura
 - Finishers
+	- powerful attacks that can end the fight
+	- they must take time or energy for balance
+	- a big enough opening must be forces
+- Others 
+	- Part of the basic infighting
+	- basically just attacks that aren't a simple physical action

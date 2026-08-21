@@ -22,7 +22,7 @@ This is the most important part
 		- waves follow each slash
 - Magic
 	- Domain
-		- some kind of 
+		- some kind of ocean of course
 #### The other guy
 ### Actual Fight Planning
 - space fight
