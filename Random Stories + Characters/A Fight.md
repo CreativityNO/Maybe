@@ -26,7 +26,7 @@ This is the most important part
 		- some kind of ocean of course but somehow in space
 			- whats up and whats down?
 				- a forced or relative?
-				- you can force it its fine but have it follow you of course
+				- you can force it its fine but have it follow you ish of course
 #### The other guy
 ### Actual Fight Planning
 - space fight
