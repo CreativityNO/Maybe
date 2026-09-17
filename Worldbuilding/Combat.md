@@ -1,6 +1,6 @@
 ## Tactics
 - Infighting then finishers from defiance of the fall 
-	- It seems too simple to boil down combat into just this but it is
+	- It seems too simple to boil down combat into just this but it is I feel there should be more options but nothing else really makes sense
 	- trickery or force, all to create an opening to unleash a finishing move.
 - Cradle is similar with more focus on infighting 
 	- of course with the same concepts of forcing openings
@@ -34,7 +34,7 @@
 		- but people aren't perfect
 		- But a good combatant should not have this problem
 		- this requires more consideration
-		- I think it isn't very possible to solve because every attack has many permutations and although with a supercomputer mind it could be possible it is still unreasonable to dedicate that much brain power to prediction instead of spells and such but also
+		- I think it isn't very possible to solve because every attack has many permutations and although with a supercomputer mind it could be possible it is still unreasonable to dedicate that much brain power to prediction instead of spells and such but still no because no matter how many calculations you do there is no definitive answer and therefore the advantage is limited
 		- no this is too complicated
 	- 
 ## Skills

@@ -29,6 +29,11 @@ This is the most important part
 				- a forced or relative?
 				- you can force it its fine but have it follow you ish of course
 #### The other guy #! Light
+- im gonna have so much fun 
+- classic mage getup 
+	- flowing white robes
+	- a cool staff
+- Mages
 #### The other guy #2 Necromancer
 
 ### Actual Fight Planning
