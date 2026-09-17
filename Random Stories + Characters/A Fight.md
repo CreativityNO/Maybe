@@ -7,6 +7,7 @@
 	- Fire/light/star mage
 	- Darkness too
 	- or some eldritch shit
+	- light seems like a interesting problem to tackle so lets do it, i can always just change to something else
 
 ### Powers and Abilities
 This is the most important part
@@ -27,7 +28,9 @@ This is the most important part
 			- whats up and whats down?
 				- a forced or relative?
 				- you can force it its fine but have it follow you ish of course
-#### The other guy
+#### The other guy #! Light
+#### The other guy #2 Necromancer
+
 ### Actual Fight Planning
 - space fight
 # The Fight?
