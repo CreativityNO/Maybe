@@ -11,7 +11,9 @@
 
 ### Powers and Abilities
 This is the most important part
+Things have to be thematic 
 #### Oceansblade
+His theme is obviously ocean stuff but in what way?
 - His sword
 	- Katana? 
 		- a single edged curved blade with some connection with waves
@@ -29,11 +31,12 @@ This is the most important part
 				- a forced or relative?
 				- you can force it its fine but have it follow you ish of course
 #### The other guy #! Light
-- im gonna have so much fun 
+- im gonna have so much fun
 - classic mage getup 
 	- flowing white robes
 	- a cool staff
-- Mages
+- Mages use only magic with basic staff skills that they should never have to use
+	- standard bolt and shield 
 #### The other guy #2 Necromancer
 
 ### Actual Fight Planning
