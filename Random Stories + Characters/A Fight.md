@@ -36,7 +36,7 @@ His theme is obviously ocean stuff but in what way?
 	- flowing white robes
 	- a cool staff
 - Mages use only magic with basic staff skills that they should never have to use
-	- standard bolt and shield 
+	- standard bolt and shield and 
 #### The other guy #2 Necromancer
 
 ### Actual Fight Planning
