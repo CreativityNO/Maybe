@@ -1,0 +1,4 @@
+### Demons
+Demons are creatures born of emotion. From birth they are both blessed and cursed with a powerful Heart. They are controlled by the emotions of their Heart to an incredible degree. This comes with various advantages and disadvantages. Getting a demon to feel anything other that what is in their Heart is a effort in futility. There are methods around this but they require immense talent and are very rare. Against mentalists this could be seen as a major advantage but it is not so. For demons hold one emotion in their Hearts and that emotion is incredibly easy to manipulate. A skilled mentalist can make a wrath demon so angry it goes mad, losing all sense of self. Unfortunately for some demons not all emotions are suited to cultivation and many Paths are severed the moment they are born. Still the Heavenly Tutor gives them a chance. 
+### Fae
+Fae are beings of language. Their magic is one of the spoken and written word. 
